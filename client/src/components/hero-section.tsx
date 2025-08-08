@@ -23,7 +23,7 @@ export default function HeroSection() {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold mb-4 md:mb-6 leading-tight">
             <span className="gradient-text">Infinite</span>
             <br />
-            <span className="text-white">Job Solutions</span>
+            <span className="text-white">Jobs Solutions</span>
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-gray-400 mb-6 md:mb-8 max-w-3xl mx-auto px-4">
             Connecting Talent with Opportunities Across Industries
