@@ -19,7 +19,7 @@ export default function Home() {
             viewport={{ once: true }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Why Choose <span className="gradient-text">Infinite Job Solutions</span>
+              Why Choose <span className="gradient-text">Infinite Jobs Solutions</span>
             </h2>
             <p className="text-gray-400 text-xl max-w-4xl mx-auto leading-relaxed">
               We are not just another recruitment agency. We are your strategic talent acquisition partner, committed to understanding your unique needs and delivering exceptional results that drive business growth.
@@ -35,7 +35,7 @@ export default function Home() {
             >
               <h3 className="text-3xl font-bold mb-8">Transforming Recruitment Excellence</h3>
               <p className="text-gray-400 text-lg leading-relaxed mb-8">
-                At Infinite Job Solutions, we believe that exceptional talent deserves exceptional opportunities. Our comprehensive approach combines cutting-edge technology, deep industry expertise, and personalized service to create perfect matches between candidates and companies.
+                At Infinite Jobs Solutions, we believe that exceptional talent deserves exceptional opportunities. Our comprehensive approach combines cutting-edge technology, deep industry expertise, and personalized service to create perfect matches between candidates and companies.
               </p>
               <p className="text-gray-400 text-lg leading-relaxed mb-8">
                 With over a decade of experience in the recruitment industry, we have successfully placed thousands of professionals across various sectors, from startups to Fortune 500 companies. Our track record speaks for itself - 95% client satisfaction rate and 92% candidate retention rate.

@@ -11,7 +11,7 @@ export default function Footer() {
               <div className="w-8 h-8 md:w-10 md:h-10 bg-gradient-to-br from-[#00D4FF] to-[#FF006E] rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm md:text-lg">IJS</span>
               </div>
-              <span className="text-lg md:text-xl font-bold">Infinite Job Solutions</span>
+              <span className="text-lg md:text-xl font-bold">Infinite Jobs Solutions</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md text-sm md:text-base">
               Connecting exceptional talent with incredible opportunities. Your success is our mission.
@@ -84,7 +84,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Infinite Job Solutions. All rights reserved. | Connecting Talent with Opportunities.
+            © 2024 Infinite Jobs Solutions. All rights reserved. | Connecting Talent with Opportunities.
           </p>
         </div>
       </div>

@@ -41,7 +41,7 @@ export default function About() {
               transition={{ duration: 0.6 }}
             >
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                About <span className="gradient-text">Infinite Job Solutions</span>
+                About <span className="gradient-text">Infinite Jobs Solutions</span>
               </h1>
               <p className="text-gray-400 text-lg max-w-3xl mx-auto">
                 We are a leading recruitment agency dedicated to creating meaningful connections between exceptional talent and forward-thinking companies.
@@ -253,7 +253,7 @@ export default function About() {
                   Our <span className="gradient-text">Culture</span>
                 </h3>
                 <p className="text-gray-400 text-lg leading-relaxed mb-6">
-                  At Infinite Job Solutions, we've cultivated a dynamic work environment that thrives on collaboration, innovation, and continuous learning. Our team is passionate about making a difference in people's careers and lives, and this passion drives everything we do.
+                  At Infinite Jobs Solutions, we've cultivated a dynamic work environment that thrives on collaboration, innovation, and continuous learning. Our team is passionate about making a difference in people's careers and lives, and this passion drives everything we do.
                 </p>
                 <div className="space-y-4">
                   <div className="flex items-center space-x-4">

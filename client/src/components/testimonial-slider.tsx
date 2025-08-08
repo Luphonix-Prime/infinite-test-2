@@ -6,7 +6,7 @@ const testimonials = [
     name: "Sarah Johnson",
     position: "CEO, TechCorp",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150",
-    testimonial: "Infinite Job Solutions transformed our hiring process. Their precision in matching candidates to our culture and requirements is unmatched.",
+    testimonial: "Infinite Jobs Solutions transformed our hiring process. Their precision in matching candidates to our culture and requirements is unmatched.",
     rating: 5
   },
   {

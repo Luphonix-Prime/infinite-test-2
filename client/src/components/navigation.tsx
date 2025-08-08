@@ -29,7 +29,7 @@ export default function Navigation() {
             <div className="w-8 h-8 md:w-10 md:h-10 bg-gradient-to-br from-[#00D4FF] to-[#FF006E] rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm md:text-lg">IJS</span>
             </div>
-            <span className="text-lg md:text-xl font-bold hidden sm:block">Infinite Job Solutions</span>
+            <span className="text-lg md:text-xl font-bold hidden sm:block">Infinite Jobs Solutions</span>
             <span className="text-lg md:text-xl font-bold sm:hidden">IJS</span>
           </Link>
 
